@@ -56,7 +56,7 @@ $(document).ready(function () {
       }
     });
 
-    $("#resultCount").text(`Searched ${resultCount} result(s)`);
+      $("#resultCount").text(`totalF${resultCount}chart/package(s)`);
   });
 
   $('#search').on('input', function () {
